@@ -51,7 +51,7 @@
 
 我们在以下模型上进行了微调与评测：
 
-- Qwen3-4B、Qwen3-4B
+- Qwen3-4B、Qwen3-14B
 - gpt-oss-20B
 - LLaMA-3.2
 
