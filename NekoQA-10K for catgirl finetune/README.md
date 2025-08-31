@@ -72,7 +72,8 @@
 ### 数据准备
 
 ```bash
-
+from datasets import load_dataset
+dataset = load_dataset("liumindmind/NekoQA-10K")
 ```
 
 ### 模型微调
